@@ -1,1 +1,1 @@
-# sanbercode QA automation - tugas pekanan 3 - javascript
+# Sanbercode QA automation - Tugas pekanan 3 - Javascript
